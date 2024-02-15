@@ -10,9 +10,9 @@ const CardDeal = () => (
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         We verify personal data such as Identity, Title Deeds, Municipal Operating Licenses, Personal and Business Addresses,
-        Reputation for real customers, local credit history, and many other integrations.
+        Reputation for real customers, local credit history and many other integrations.
         <br />
-        We do all of this with zK technology, iA, and human verification.
+        We do all of this with zK technology, IA and human verification.
       </p>
 
     </div>

@@ -1,12 +1,12 @@
 import styles from "../style";
-import Button from "./Button";
+
 
 const CTA = () => (
   <section className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
     <div className="flex-1 flex flex-col">
-      <h2 className={styles.heading2}>Lorem title something</h2>
+      <h2 className={styles.heading2}>Thanks to each and every one of you</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui maxime ipsum minima fugiat quos obcaecati totam.ero?
+        Would not be possible without the support of:
       </p>
     </div>
 
