@@ -1,4 +1,4 @@
-import { people01, facebook, instagram, linkedin, twitter, cryptochicks, ETHvzla, mxweb3, send, shield, star, cryptoconexion } from "../assets";
+import { facebook, instagram, twitter, cryptochicks, ETHvzla, mxweb3, send, shield, star, cryptoconexion, frutero, greenpill, manantialblanco, nacionabankless, womenbiz, } from "../assets";
 
 export const navLinks = [
   {
@@ -50,7 +50,7 @@ export const feedback = [
       "DeFi needs a trusted party that vouches for IRL business, someone on the ground that can enforce responsibility.",
     name: "Humberto Besso",
     title: "Entrepreneur",
-    img: people01,
+    img: "https://pbs.twimg.com/profile_images/1714750354070601728/JObhehKa_400x400.jpg",
   },
   {
     id: "feedback-2",
@@ -58,7 +58,7 @@ export const feedback = [
       "This the emergence of a web of trust for lending.",
     name: "Anna Kaic",
     title: "Entrepreneur",
-    img: people01,
+    img: "https://pbs.twimg.com/profile_images/1737892879182237697/REUpKqkO_400x400.jpg",
   },
   {
     id: "feedback-3",
@@ -66,7 +66,7 @@ export const feedback = [
       "deCreditScore shows a clear path to build out a crypto-credit score for future and more trusted lending.",
     name: "Sofiverse.eth",
     title: "Entrepreneur",
-    img: people01,
+    img: "https://pbs.twimg.com/profile_images/1744934576399450112/9ThejzO3_400x400.jpg",
   },
 ];
 
@@ -94,23 +94,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.j.com/content/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "How it Works",
-        link: "https://www.j.com/how-it-works/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Create",
-        link: "https://www.j.com/create/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Explore",
-        link: "https://www.j.com/explore/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Terms & Services",
-        link: "https://www.l.com/terms-and-services/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
     ],
   },
@@ -119,23 +119,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.l.com/help-center/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Partners",
-        link: "https://www.l.com/partners/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Suggestions",
-        link: "https://www.l.com/suggestions/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Blog",
-        link: "https://www.l.com/blog/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Newsletters",
-        link: "https://www.l.com/newsletters/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
     ],
   },
@@ -144,11 +144,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.k.com/our-partner/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
       {
         name: "Become a Partner",
-        link: "https://www.k.com/become-a-partner/",
+        link: "https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52",
       },
     ],
   },
@@ -168,12 +168,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.x.com/",
-  },
-  {
-    id: "social-media-4",
-    icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://twitter.com/0xUrbanika",
   },
 ];
 
@@ -194,4 +189,27 @@ export const clients = [
     id: "client-4",
     logo: mxweb3,
   },
+  {
+    id: "client-5",
+    logo: frutero,
+  },
+  {
+    id: "client-6",
+    logo: greenpill,
+  },
+  {
+    id: "client-7",
+    logo: manantialblanco,
+  },
+  {
+    id: "client-8",
+    logo: nacionabankless,
+  },
+  {
+    id: "client-9",
+    logo: womenbiz,
+  },
+
+
+
 ];
