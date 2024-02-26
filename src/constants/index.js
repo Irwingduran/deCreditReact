@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Prompted me to find a web3 credit.",
-    name: "User 1",
-    title: "Small Entrepreneur",
+      "DeFi needs a trusted party that vouches for IRL business, someone on the ground that can enforce responsibility.",
+    name: "Humberto Besso",
+    title: "Entrepreneur",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Prompted me to find a web3 credit.",
-    name: "User 2",
-    title: "Small Entrepreneur",
+      "This the emergence of a web of trust for lending.",
+    name: "Anna Kaic",
+    title: "Entrepreneur",
     img: people01,
   },
   {
     id: "feedback-3",
     content:
-      "Prompted me to find a web3 credit.",
-    name: "User 3",
-    title: "Small Entrepreneur",
+      "deCreditScore shows a clear path to build out a crypto-credit score for future and more trusted lending.",
+    name: "Sofiverse.eth",
+    title: "Entrepreneur",
     img: people01,
   },
 ];

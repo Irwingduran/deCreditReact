@@ -25,7 +25,7 @@ const Business = () => (
         You do the lending business, <br className="sm:block hidden" /> We handle the IRL risks.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Creating new formats of verification for all those who require a web3 credits.
+        Creating new forms of verification for all those who require web3 credits.
       </p>
 
 

@@ -12,7 +12,7 @@ const Testimonials = () => (
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Creating new formats of verification for all those who require a web3 credits.
+          Creating new forms of verification for all those who require web3 credits.
         </p>
       </div>
     </div>
