@@ -10,8 +10,8 @@ const Hero = () => {
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
             <span className="text-white">We are</span> a public good.{" "}
-            <span className="text-white">Fund us</span> here.
-          </p>
+            <span className="text-white">Fund us</span> <a href="https://explorer.gitcoin.co/#/round/42161/0x0c12752d28a68fd3dc791826b3405b8803aa8a52/0x0c12752d28a68fd3dc791826b3405b8803aa8a52-0">here</a>
+         . </p>
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
