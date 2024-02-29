@@ -9,4 +9,5 @@ The team behind this proposal thinks that a fork of the Gitcoin Passport modifie
 
 Verifiable off-chain data will ease the path for more people to benefit from the potential that decentralized and regenerative finance can bring to local economies.
 
-https://bafybeiejlfamyx5big2nugfrkfuagdcwobx7uisgzvxwcvd4im4r57azoi.ipfs.w3s.link/deCredit%20Score%20website.gif
+
+![Prototype](https://bafybeiejlfamyx5big2nugfrkfuagdcwobx7uisgzvxwcvd4im4r57azoi.ipfs.w3s.link/deCredit%20Score%20website.gif)
