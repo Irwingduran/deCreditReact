@@ -1,5 +1,23 @@
-import { stats } from "../constants";
 import styles from "../style";
+
+const stats = [
+  {
+    id: "stats-1",
+    title: "User Active",
+    value: "XXXX+",
+  },
+  {
+    id: "stats-2",
+    title: "Trusted by Company",
+    value: "XXXX+",
+  },
+  {
+    id: "stats-3",
+    title: "Transaction",
+    value: "$XXXX+",
+  },
+];
+
 
 const Stats = () => (
   <section className={`${styles.flexCenter} flex-row flex-wrap sm:mb-20 mb-6 `}>

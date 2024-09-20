@@ -1,7 +1,27 @@
 import { useState } from "react";
 
 import { close, logo, menu } from "../assets";
-import { navLinks } from "../constants";
+
+
+export const navLinks = [
+  {
+    id: "home",
+    title: "Home",
+  },
+  {
+    id: "features",
+    title: "Features",
+  },
+  {
+    id: "product",
+    title: "Product",
+  },
+  {
+    id: "clients",
+    title: "Clients",
+  },
+];
+
 
 const Navbar = () => {
   const [active, setActive] = useState("Home");

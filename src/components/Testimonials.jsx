@@ -1,6 +1,32 @@
-import { feedback } from "../constants";
 import styles from "../style";
 import FeedbackCard from "./FeedbackCard";
+
+const feedback = [
+  {
+    id: "feedback-1",
+    content:
+      "DeFi needs a trusted party that vouches for IRL business, someone on the ground that can enforce responsibility.",
+    name: "Humberto Besso",
+    title: "Entrepreneur",
+    img: "https://pbs.twimg.com/profile_images/1714750354070601728/JObhehKa_400x400.jpg",
+  },
+  {
+    id: "feedback-2",
+    content: 
+      "This the emergence of a web of trust for lending.",
+    name: "Anna Kaic",
+    title: "Entrepreneur",
+    img: "https://pbs.twimg.com/profile_images/1737892879182237697/REUpKqkO_400x400.jpg",
+  },
+  {
+    id: "feedback-3",
+    content:
+      "deCreditScore shows a clear path to build out a crypto-credit score for future and more trusted lending.",
+    name: "Sofiverse.eth",
+    title: "Entrepreneur",
+    img: "https://pbs.twimg.com/profile_images/1744934576399450112/9ThejzO3_400x400.jpg",
+  },
+];
 
 const Testimonials = () => (
   <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
