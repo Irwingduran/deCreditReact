@@ -11,7 +11,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
-import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import twitter from "./twitter.svg";
 import cryptoconexion from "./cryptoconexion.png";
@@ -23,6 +22,7 @@ import greenpill from "./greenpill.png";
 import manantialblanco from "./manantialblanco.png";
 import nacionabankless from "./nacionabankless.png";
 import womenbiz from "./womenbiz.png";
+import roadmap from "./roadmap.png";
 
 
 export {
@@ -38,7 +38,6 @@ export {
   close,
   arrowUp,
   discount,
-  facebook,
   instagram,
   twitter,
   cryptoconexion,
@@ -50,5 +49,5 @@ export {
   manantialblanco,
   nacionabankless,
   womenbiz,
-
+  roadmap
 };
